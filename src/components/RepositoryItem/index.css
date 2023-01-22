@@ -1,0 +1,19 @@
+.image {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #e73959;
+}
+.two {
+  display: flex;
+}
+.small-image {
+  height: 30px;
+  width: 30px;
+}
+.margin {
+  margin: 10px;
+}
